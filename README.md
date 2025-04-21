@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ni3salunkhe
-- 👀 I’m interested in Fullstack Web Developement
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on Web Developement Projects
+- 👀 I’m Fullstack Web Developer
+- 🌱 I’m currently working on React js and java springboot technologies.
+- 💞️ I’m looking to collaborate on Web Projects
 
 <!---
 ni3salunkhe/ni3salunkhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
